@@ -39,7 +39,7 @@ header {
 .logo {
     display: flex;
     align-items: center;
-    float: left;
+    position: relative;
 }
 
 .logo img {
@@ -56,6 +56,7 @@ header {
     position: relative;
     transition: color 0.4s ease-in-out;
     float: right;
+    vertical-align: middle;
 }
 
 .nav-links a::before {
