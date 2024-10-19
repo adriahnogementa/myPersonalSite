@@ -28,6 +28,7 @@ header {
 .center_div_nav {
     max-width: 800px;
     margin: 0 auto;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
@@ -38,6 +39,7 @@ header {
 }
 
 .logo {
+    display: flex;
     align-items: center;
 }
 
@@ -101,6 +103,7 @@ main {
 
 .footer-container {
     gap: 20px;
+    justify-content: center;
 }
 
 button {
