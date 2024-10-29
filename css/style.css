@@ -95,6 +95,13 @@ main {
     height: auto;
 }
 
+.projects_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
 .footer-container {
     display: flex;
     gap: 20px;
