@@ -201,3 +201,7 @@ a.button:hover {
     background-color: #00ADB5;
     color: #222831;
 }
+
+.box_border_top {
+    border-top: #393E46 1px solid;
+}
